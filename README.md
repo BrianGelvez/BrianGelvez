@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mi-portafolios.vercel.app/](https://mi-portafolios.vercel.app/)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **briannn97@gmail.com**
 
 - 📄 currently developing the final project in "SoyHenry 💛" NifityGo
