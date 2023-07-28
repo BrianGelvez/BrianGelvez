@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/kqLFZpM/your-image-filename.png" alt="Header Image">
+  <img src="https://i.ibb.co/kqLFZpM/your-image-filename.png" alt="Header Image" width="1584" height="396">
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian Gelvez</h1>
