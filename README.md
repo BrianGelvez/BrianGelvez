@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/kqLFZpM"><img src="https://i.ibb.co/DwBndNL/brian-gelvez.png" alt="brian-gelvez" border="0" width="1584" height="396" /></a>
+  <a href="https://ibb.co/kqLFZpM"><img src="https://i.ibb.co/DwBndNL/brian-gelvez.png" alt="brian-gelvez"/></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian Gelvez</h1>
