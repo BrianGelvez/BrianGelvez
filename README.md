@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **briannn97@gmail.com**
 
-- 📄 currently [developing the final project in "SoyHenry 💛" NifityGo](developing the final project in "SoyHenry 💛" NifityGo)
+- 📄 currently developing the final project in "SoyHenry 💛" NifityGo
 
 - ⚡ Fun fact **ex militar 💂🇦🇷**
 
