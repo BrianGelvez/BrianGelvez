@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://ibb.co/wYq60GC"><img src="https://i.ibb.co/kMTcHb0/Bartholomew-Henderson-1.png" alt="brian-gelvez" border="0" width="100%" /></a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Brian Gelvez</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briangelvez&label=Profile%20views&color=0e75b6&style=flat" alt="briangelvez" /> </p>
 
 - 🔭 I’m currently working on **NifytiGo**
 
@@ -13,9 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mi-portafolios.vercel.app/](https://mi-portafolios.vercel.app/)
 
+- 💬 Ask me about **react**
+
 - 📫 How to reach me **briannn97@gmail.com**
 
-- 📄 currently developing the final project in "SoyHenry 💛" NifityGo
+- 📄 currently [developing the final project in "SoyHenry 💛" NifityGo](developing the final project in "SoyHenry 💛" NifityGo)
 
 - ⚡ Fun fact **ex militar 💂🇦🇷**
 
