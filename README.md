@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/QKYDPCh"><img src="https://i.ibb.co/G5CHWtG/Bartholomew-Henderson-2.png" alt="Bartholomew-Henderson-2" width="100%" /></a>
+  <a href="https://ibb.co/ngq0kc9"><img src="https://i.ibb.co/f1VS0pf/Bartholomew-Henderson-3.png" alt="Bartholomew-Henderson-3" width="100%" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian Gelvez</h1>
