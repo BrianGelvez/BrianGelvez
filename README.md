@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://ibb.co/QKYDPCh"><img src="https://i.ibb.co/G5CHWtG/Bartholomew-Henderson-2.png" alt="Bartholomew-Henderson-2" width="100%"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Brian Gelvez</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
@@ -6,8 +10,6 @@
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://mi-portafolios.vercel.app/](https://mi-portafolios.vercel.app/)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **briannn97@gmail.com**
 
