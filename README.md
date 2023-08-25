@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [[https://mi-portafolios.vercel.app](https://mi-portafolios-2-0.vercel.app/)/]([https://mi-portafolios.vercel.app](https://mi-portafolios-2-0.vercel.app/)/)
+- 👨‍💻 All of my projects are available at https://mi-portafolios-2-0.vercel.app/
 
 - 📫 How to reach me **briannn97@gmail.com**
 
