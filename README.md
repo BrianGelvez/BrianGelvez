@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **briannn97@gmail.com**
 
-- 📄 currently developing the final project in "SoyHenry 💛" NifityGo
-
 - ⚡ Fun fact **ex militar 💂🇦🇷**
 
 <h3 align="left">Connect with me:</h3>
